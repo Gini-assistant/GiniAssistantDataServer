@@ -14,6 +14,20 @@
   },
   "test" : [{"name": "111"},{"name": "222"},{"name": "333"}],
   "owner" : {"name": "gini assistant"},
+  "science" : {
+        "nature" : 17,
+        "computers" : 18,
+        "mathmatics" : 19,
+    } ,
+  "Entertainment" : {
+        "books" : 10,
+        "Film" : 11,
+        "music" : 12,
+        "MusicalsTheateres" : 12,
+        "television" : 14,
+        "VideoGames" : 15,
+        "boardGames" : 16,
+    },
   "quizres" : {
     "generalKnowledge" : 9,
     "Entertainment" : {
