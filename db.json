@@ -11,22 +11,7 @@
   "profile": {
     "name": "typicode"
   },
-  "dummyQuizCategory" : [
-    {name : "generalKnowledge", value : 9},
-    {name : "books", value : 10},
-    {name : "music", value : 11},
-    {name : "MusicalsTheateres", value : 12},
-    {name : "television", value : 14},
-    {name : "VideoGames", value : 15},
-    {name : "boardGames", value : 16},
-    {name : "nature", value : 17},
-    {name : "computers", value : 18},
-    {name : "mathmatics", value : 19},
-    {name : "mythology", value : 20},
-    {name : "sports", value : 21},
-    {name : "geography", value : 22},
-    {name : "history", value : 23}
-],
+ 
  
   
   
