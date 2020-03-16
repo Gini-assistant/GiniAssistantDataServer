@@ -12,5 +12,6 @@
   "profile": {
     "name": "typicode"
   },
-  "test" : [{"name": "111"},{"name": "222"},{"name": "333"}]
+  "test" : [{"name": "111"},{"name": "222"},{"name": "333"}],
+  "owner" : {"name": "gini assistant"}
 }
